@@ -1,0 +1,25 @@
+
+#top1{
+    height: 400px;
+}
+#top4{
+    height: 600px;
+}
+#top7{
+    height: 400px;
+}
+body{
+        text-align: center;
+        background-color: black;
+        color: rgb(255, 255, 198)
+    }
+
+img{
+    opacity: 0.5
+}
+
+img:hover{
+    opacity: 1;
+    border: 2px rgb(255, 255, 198) solid;
+    zoom: 1.5x;
+}
